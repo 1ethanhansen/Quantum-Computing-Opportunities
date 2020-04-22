@@ -1,5 +1,5 @@
 # Quantum-Computing-Opportunities
-A list of internships, schools, research and other opportunites in quantum computing
+A list of hands-on opportunites (not jobs) in quantum computing
 
 ![GitHub](https://img.shields.io/github/license/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
