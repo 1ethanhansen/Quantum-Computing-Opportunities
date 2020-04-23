@@ -14,11 +14,13 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Research Opportunities
 | Name | Link | Organization | Date | Status |
 | :--: | :--: | :--: | :--: | :--: |
+| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] |
 
 
 ## Programs
 | Name | Link | Organization | Date | Status |
 | :--: | :--: | :--: | :--: | :--: |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] |
 | USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] |
 
 ## Contributing
