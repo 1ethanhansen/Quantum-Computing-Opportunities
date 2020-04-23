@@ -8,10 +8,18 @@ A list of hands-on opportunites (not jobs) in quantum computing
 
 ## Internships
 | Name | Link | Organization | Date | Status |
-| :--: | :--: | :--: | :--: | :--:|
+| :--: | :--: | :--: | :--: | :--: |
 | QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] |
 
 ## Research Opportunities
+| Name | Link | Organization | Date | Status |
+| :--: | :--: | :--: | :--: | :--: |
+
+
+## Programs
+| Name | Link | Organization | Date | Status |
+| :--: | :--: | :--: | :--: | :--: |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] |
 
 ## Contributing
 
