@@ -1,10 +1,10 @@
 # Quantum-Computing-Opportunities
 A list of hands-on opportunites (not jobs) in quantum computing
 
-![GitHub](https://img.shields.io/github/license/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)
+[![License](https://img.shields.io/github/license/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)](master/LICENSE)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/issues)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/graphs/contributors)
 
 ## Internships
 | Name | Link | Organization | Date | Status |
@@ -27,7 +27,7 @@ A list of hands-on opportunites (not jobs) in quantum computing
 
 ![Contributing Guidelines](https://img.shields.io/badge/contribute-read%20the%20guidelines!-informational?style=flat-square)
 
-![GitHub forks](https://img.shields.io/github/forks/1ethanhansen/Quantum-Computing-Opportunities?label=Fork&style=social)
+[![GitHub forks](https://img.shields.io/github/forks/1ethanhansen/Quantum-Computing-Opportunities?label=Fork&style=social)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/network/members)
 
 ### New opportunites
 - Please make sure the opportunity you want to add hasn't been added already
