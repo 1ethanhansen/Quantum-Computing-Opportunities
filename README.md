@@ -9,19 +9,19 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Internships
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L7) |
+| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/blob/master/FEEDBACK.md#internships) |
 
 ## Research Opportunities
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L12) |
+| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/blob/master/FEEDBACK.md#research-opportunities) |
 
 
 ## Programs
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L18) |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L19) |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/blob/master/FEEDBACK.md#program) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/blob/master/FEEDBACK.md#program) |
 
 ## Contributing
 
