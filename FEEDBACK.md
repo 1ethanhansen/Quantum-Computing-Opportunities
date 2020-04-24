@@ -2,18 +2,30 @@
 Useful perspectives from past participants of the program!
 
 ## Internships
-| Name | Organization | Links |
-| :--: | :--: | :--: |
-| QURIP | IBM |  |
+### QURIP (IBM)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
 
 ## Research Opportunities
-| Name | Organization | Links |
-| :--: | :--: | :--: |
-| URA | University of Waterloo IQC |  |
+### URA (University of Waterloo IQC)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
 
 
-## Program
-| Name | Organization | Links |
-| :--: | :--: | :--: |
-| QCSYS | University of Waterloo IQC |  |
-| USEQIP | University of Waterloo IQC |  |
+## Programs
+### QCSYS (University of Waterloo IQC)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
+### USEQIP (University of Waterloo IQC)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
