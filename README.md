@@ -9,19 +9,19 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Internships
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] |  |
+| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L7) |
 
 ## Research Opportunities
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] |  |
+| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L12) |
 
 
 ## Programs
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] |  |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] |  |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L18) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [FB](https://github.com/fconti17/Quantum-Computing-Opportunities/edit/master/FEEDBACK.md#L19) |
 
 ## Contributing
 
