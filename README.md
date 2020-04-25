@@ -7,21 +7,21 @@ A list of hands-on opportunites (not jobs) in quantum computing
 [![GitHub contributors](https://img.shields.io/github/contributors/1ethanhansen/Quantum-Computing-Opportunities?style=flat-square)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/graphs/contributors)
 
 ## Internships
-| Name | Link | Organization | Date | Status |
-| :--: | :--: | :--: | :--: | :--: |
-| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] |
+| Name | Link | Organization | Date | Status | Feedback |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [FB](FEEDBACK.md#qurip-ibm) |
 
 ## Research Opportunities
-| Name | Link | Organization | Date | Status |
-| :--: | :--: | :--: | :--: | :--: |
-| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] |
+| Name | Link | Organization | Date | Status | Feedback |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [FB](FEEDBACK.md#ura-university-of-waterloo-iqc) |
 
 
 ## Programs
-| Name | Link | Organization | Date | Status |
-| :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] |
+| Name | Link | Organization | Date | Status | Feedback |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [FB](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [FB](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
 
 ## Contributing
 
