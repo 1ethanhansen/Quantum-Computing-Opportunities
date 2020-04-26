@@ -20,6 +20,16 @@ Interested in adding information to the page? Read on!
 - In the description please include a link to your source
 - The PR will be approved or not ASAP :)
 
+## Adding FEEDBACK
+- Have you had the chance to participate in one of these opportunites before? Want to share what you know?
+- Update [FEEDBACK.md](master/FEEDBACK.md)
+- There are two options
+  - Either add a link to a post elsewhere that has already been written
+  - OR write your thoughts directly under the appropriate section on FEEDBACK.md
+- Open a PR with a name formatted as "Add FB for: \<Opportunity\>" (example: "Add FB for: URA")
+- Feel free to add extra info in the description or not, up to you
+- The PR will be approved or not ASAP :)
+
 ## New table sections
 - Please make sure the section you want to add hasn't been added already
 - Add it to the table in an order that makes sense to you
