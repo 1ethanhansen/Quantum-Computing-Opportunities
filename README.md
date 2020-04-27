@@ -9,19 +9,19 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Internships
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [FB](FEEDBACK.md#qurip-ibm) |
+| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
 
 ## Research Opportunities
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [FB](FEEDBACK.md#ura-university-of-waterloo-iqc) |
+| URA | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/ura) | University of Waterloo IQC | Summer | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
 
 
 ## Programs
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [FB](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [FB](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
 
 ## Contributing
 
@@ -33,3 +33,4 @@ Step 3: Done!
 
 [open]: https://img.shields.io/badge/status-open-brightgreen?style=flat-square
 [closed]: https://img.shields.io/badge/status-closed-red?style=flat-square
+[feedback]: https://img.shields.io/badge/feedback-here!-informational?style=flat-square
