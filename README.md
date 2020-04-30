@@ -9,7 +9,8 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Internships
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
+| QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM | Summer | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qurip-ibm) |
+| Horizon Summer Internship | [Scroll Down](http://horizonquantum.com/) | Horizon Quantum Computing | Summer | ![open status][open] | [![FB][feedback]](FEEDBACK.md#summer-internship-horizon-quantum-computing) |
 
 ## Research Opportunities
 | Name | Link | Organization | Date | Status | Feedback |
@@ -20,8 +21,8 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Programs
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#ura-university-of-waterloo-iqc) |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
 
 ## Contributing
 
