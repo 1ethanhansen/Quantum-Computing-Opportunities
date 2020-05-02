@@ -35,3 +35,16 @@ Additional Reviews:
 | :--: | :--: | :--: | :--: |
 
 Additional Reviews:
+
+### QOSF Mentorship Program (Quantum Open Source Foundation)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
+### Los Alamos Quantum Computing Summer School (ISTI)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
