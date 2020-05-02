@@ -26,7 +26,7 @@ A list of hands-on opportunites (not jobs) in quantum computing
 
 ## Contributing
 
-Step 1: [![Contributing Guidelines](https://img.shields.io/badge/contribute-read%20the%20guidelines!-informational?style=flat-square)](master/CONTRIBUTING.md)
+Step 1: [![Contributing Guidelines](https://img.shields.io/badge/contribute-read%20the%20guidelines!-informational?style=flat-square)](CONTRIBUTING.md)
 
 Step 2: [![GitHub forks](https://img.shields.io/github/forks/1ethanhansen/Quantum-Computing-Opportunities?label=Fork&style=social)](https://github.com/1ethanhansen/Quantum-Computing-Opportunities/fork)
 
