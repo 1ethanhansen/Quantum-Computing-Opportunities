@@ -21,10 +21,12 @@ A list of hands-on opportunites (not jobs) in quantum computing
 ## Programs
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
-| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
-| QOSF Mentorship program | [Info Page](https://qosf.org/qc_mentorship/) | Quantum Open Source Foundation | Program runs in batches | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qosf-mentorship-program) |
 | Los Alamos Quantum Computing Summer School| [Info Page](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php) | Information Science and Technology Institute (ISTI) | Summer (10 weeks) | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#los-alamos-quantum-computing-summer-school) |
+| QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
+| QOSF Mentorship program | [Info Page](https://qosf.org/qc_mentorship/) | Quantum Open Source Foundation | Program runs in batches | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qosf-mentorship-program) |
+| USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
+
+
 
 ## Contributing
 
