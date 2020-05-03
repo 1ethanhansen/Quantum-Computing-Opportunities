@@ -24,7 +24,20 @@ Additional Reviews:
 
 
 ## Programs
+### Los Alamos Quantum Computing Summer School (ISTI)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
 ### QCSYS (University of Waterloo IQC)
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
+
+### QOSF Mentorship Program (Quantum Open Source Foundation)
 |Links|  |   |   |
 | :--: | :--: | :--: | :--: |
 
@@ -35,3 +48,7 @@ Additional Reviews:
 | :--: | :--: | :--: | :--: |
 
 Additional Reviews:
+
+
+
+
