@@ -2,7 +2,7 @@
 Useful perspectives from past participants of the program!
 
 ## Internships
-### QURIP (IBM)
+### QURIP (IBM and Princeton)
 |Links|  |   |   |
 | :--: | :--: | :--: | :--: |
 
