@@ -2,13 +2,19 @@
 Useful perspectives from past participants of the program!
 
 ## Internships
-### QURIP (IBM and Princeton)
+### Summer Internship (Horizon Quantum Computing)
 |Links|  |   |   |
 | :--: | :--: | :--: | :--: |
 
 Additional Reviews:
 
-### Summer Internship (Horizon Quantum Computing)
+### Ketita Labs Internships
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
+
+### QURIP (IBM and Princeton)
 |Links|  |   |   |
 | :--: | :--: | :--: | :--: |
 
@@ -48,7 +54,3 @@ Additional Reviews:
 | :--: | :--: | :--: | :--: |
 
 Additional Reviews:
-
-
-
-
