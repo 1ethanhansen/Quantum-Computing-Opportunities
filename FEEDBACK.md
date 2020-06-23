@@ -42,6 +42,11 @@ Additional Reviews:
 
 Additional Reviews:
 
+### Qiskit Global Summer School
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
 
 ### QOSF Mentorship Program (Quantum Open Source Foundation)
 |Links|  |   |   |
