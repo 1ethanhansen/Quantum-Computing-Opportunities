@@ -10,7 +10,7 @@ A list of hands-on opportunites (not jobs) in quantum computing
 | Name | Link | Organization | Date | Status | Feedback |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Horizon Summer Internship | [Scroll Down](http://horizonquantum.com/) | Horizon Quantum Computing | Summer | ![open status][open] | [![FB][feedback]](FEEDBACK.md#summer-internship-horizon-quantum-computing) |
-| Ketita Internships | [Internship Block](https://ketita-labs.com/#block-intern) | Ketita Labs | ??? | ![open status][open] | ![FB][feedback]](FEEDBACK.md#ketita-labs-internships) |
+| Ketita Internships | [Internship Block](https://ketita-labs.com/#block-intern) | Ketita Labs | ??? | ![open status][open] | [![FB][feedback]](FEEDBACK.md#ketita-labs-internships) |
 | QURIP | [Info Page](https://www.ibm.com/quantum-computing/internship/qurip/) | IBM and Princeton| Summer | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qurip-ibm-and-princeton) |
 
 ## Research Opportunities
