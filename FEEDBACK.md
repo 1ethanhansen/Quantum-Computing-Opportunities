@@ -42,12 +42,21 @@ Additional Reviews:
 
 Additional Reviews:
 
+### Qiskit Global Summer School
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
+
+Additional Reviews:
 
 ### QOSF Mentorship Program (Quantum Open Source Foundation)
 |Links|  |   |   |
 | :--: | :--: | :--: | :--: |
 
 Additional Reviews:
+
+### SMBQ2020 - University of Porto
+|Links|  |   |   |
+| :--: | :--: | :--: | :--: |
 
 ### USEQIP (University of Waterloo IQC)
 |Links|  |   |   |
