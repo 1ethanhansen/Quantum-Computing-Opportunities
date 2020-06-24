@@ -26,7 +26,7 @@ A list of hands-on opportunites (not jobs) in quantum computing
 | QCSYS | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/qcsys) | University of Waterloo IQC | August | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qcsys-university-of-waterloo-iqc) |
 | Qiskit Global Summer School | [Info Page](https://www.eventbrite.com/e/qiskit-global-summer-school-tickets-110201256926) | IBM | July 20-31 | ![open status][open] | [![FB][feedback]](FEEDBACK.md#qiskit-global-summer-school) |
 | QOSF Mentorship program | [Info Page](https://qosf.org/qc_mentorship/) | Quantum Open Source Foundation | Program runs in batches | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#qosf-mentorship-program-quantum-open-source-foundation) |
-| Summer School on Machine Learning and Big Data with Quantum Computing | [Info Page](https://smbq2020.dcc.fc.up.pt/)| University of Porto, Portugal | September 7-8 | ![open status][open] | [![FB][feedback]](FEEDBACK.md#SMBQ2020-university-of-porto) |
+| Summer School on Machine Learning and Big Data with Quantum Computing | [Info Page](https://smbq2020.dcc.fc.up.pt/)| University of Porto, Portugal | September 7-8 | ![open status][open] | [![FB][feedback]](FEEDBACK.md#smbq2020---university-of-porto) |
 | USEQIP | [Info Page](https://uwaterloo.ca/institute-for-quantum-computing/programs/useqip) | University of Waterloo IQC | May-June | ![closed status][closed] | [![FB][feedback]](FEEDBACK.md#useqip-university-of-waterloo-iqc) |
 
 
